@@ -1,5 +1,8 @@
 # PixivLink
 open the pixiv page by id and some other features
+- 选中p站id号右键菜单直接转到p站页面
+- 选中百度网盘的分享链接的尾部代码右键菜单直接跳转此分享页面
+- 选中av/ac号右键菜单直接跳转AB站此内容页面
 
 ### Usage
 安装：
