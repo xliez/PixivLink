@@ -3,7 +3,7 @@ open the pixiv page by id and some other features
 
 ### Usage
 安装：
-下载zip解压，chrome拓展程序中-勾选开发者模式-加载已解压的拓展程序
+下载zip解压，chrome拓展程序中-勾选开发者模式-加载已解压的拓展程序-选择pixiv_link文件夹
 
 使用方法：
 - pixiv：选中数字(不要包含"id=")-右击-PixivLink-根据id是作者还是图片选择
